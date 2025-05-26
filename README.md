@@ -24,20 +24,20 @@ This project is a simple yet fun **Morse Code Translator** built with **HTML, CS
 4. Use the Clear button to reset everything.
 
 ## 💡 Technologies Used
-HTML5
+- HTML5
 
-CSS3 (with animated gradient background)
+- CSS3 (with animated gradient background)
 
-Vanilla JavaScript (no libraries)
+- Vanilla JavaScript (no libraries)
 
 ## ✨ Future Improvements (Optional Ideas)
-Add sound beeps for Morse output
+- Add sound beeps for Morse output
 
-Support copy to clipboard
+- Support copy to clipboard
 
-Add dark/light mode toggle
+- Add dark/light mode toggle
 
-Support for multiple languages
+- Support for multiple languages
 
 ## 📜 License
 This project is open-source and available under the MIT License.

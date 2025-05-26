@@ -1,6 +1,7 @@
 # 📡 Morse Code Translator — R2-D2’s Secret Communicator
 
 This project is a simple yet fun **Morse Code Translator** built with **HTML, CSS, and JavaScript**. It was inspired by R2-D2 from Star Wars and allows users to convert between plain text and Morse code — and vice versa.
+
 Deployment link: https://morse-code-translator-alpha.vercel.app/
 ## 🚀 Features
 
